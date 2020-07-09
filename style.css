@@ -2,6 +2,7 @@
     border: 5px solid slategrey;
     width: 179px;
     
+    
     margin: 0 auto;
 }
 .res{
@@ -24,4 +25,5 @@
 }
 body{
     background-image: url(https://c8.alamy.com/comp/FYRXHG/financial-background-closeup-of-pen-near-calculator-on-paper-with-FYRXHG.jpg);
+    padding-top: 200px;
 }
